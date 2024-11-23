@@ -19,7 +19,10 @@
 -- git push -u origin main    (ENVIAR ARQUIVOS)
 -- git log (VISUALIZAR HISTORICO DE COMMIT)
   
-4. Criar uma nova Branch []
+4. Criar uma nova Branch [ X ]
+-- git branch versao_01
+-- git checkout versao_01
+-- ls
 
 5. Realizar um Pull Request e Merge []
  

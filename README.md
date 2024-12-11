@@ -8,6 +8,7 @@
 -- git commit -m "Nome do Commit"
 -- git branch -M main  (ENTRANDO BRANCH MAIN)
 -- git remote add origin LINK_REPOSITORIO_HTTPS
+-- git push -u origin main 
 
 
 2. Clocar um repositório remoto para o nosso computador local [ X ]
